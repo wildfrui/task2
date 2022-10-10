@@ -1,0 +1,13 @@
+.container {
+  margin-bottom: 30px;
+
+  margin: 65px auto;
+  background-color: #fff;
+  /* border-right: 1px solid rgb(205, 197, 197);
+    border-left: 1px solid rgb(205, 197, 197);
+    border-bottom: 1px solid rgb(205, 197, 197); */
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  display: flex;
+  font-family: Roboto;
+}
